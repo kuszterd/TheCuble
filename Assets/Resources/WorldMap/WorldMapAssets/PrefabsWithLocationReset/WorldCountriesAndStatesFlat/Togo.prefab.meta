@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c6dbdc0072046c848a0b1254b64886cd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/PrefabsWithLocationReset/WorldCountriesAndStatesFlat/Togo.prefab
+  uploadId: 462268

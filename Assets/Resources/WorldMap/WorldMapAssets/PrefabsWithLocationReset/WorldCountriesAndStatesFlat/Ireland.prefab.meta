@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 636c053c3fa474f4a8c852f4e5055d16
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/PrefabsWithLocationReset/WorldCountriesAndStatesFlat/Ireland.prefab
+  uploadId: 462268

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 263600cf471f2f54da84fd8f3002ec0f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/PrefabsWithLocationReset/WorldCountriesAndStatesFlat/UnitedStatesOfAmerica.prefab
+  uploadId: 462268

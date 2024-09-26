@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 949ccbde01479a442b05b21de9f93fca
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/PrefabsWithLocationReset/WorldCountriesAndStatesFlat/Brasil.prefab
+  uploadId: 462268

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 80f8f896911b3e649a23573d704b260b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/PrefabsWithLocationReset/USAStatesFlat/Indiana.prefab
+  uploadId: 462268

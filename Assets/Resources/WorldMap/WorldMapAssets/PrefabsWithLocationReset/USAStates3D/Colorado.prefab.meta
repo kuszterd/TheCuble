@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cc21998a3653c1f40b86895854c2695d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/PrefabsWithLocationReset/USAStates3D/Colorado.prefab
+  uploadId: 462268

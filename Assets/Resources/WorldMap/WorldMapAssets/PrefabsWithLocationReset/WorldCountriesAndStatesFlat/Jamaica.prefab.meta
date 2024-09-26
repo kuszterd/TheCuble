@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e3d9d6cdeb822e241b43214a22280179
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/PrefabsWithLocationReset/WorldCountriesAndStatesFlat/Jamaica.prefab
+  uploadId: 462268

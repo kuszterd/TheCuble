@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 24d9fd67cdf2710428d78a07ebf1c954
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/PrefabsWithLocationReset/WorldCountriesAndStatesFlat/Madagascar.prefab
+  uploadId: 462268

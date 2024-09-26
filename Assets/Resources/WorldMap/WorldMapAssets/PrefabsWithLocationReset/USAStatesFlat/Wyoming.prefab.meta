@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1484bf5fca1317a41a81b55f825853bd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/PrefabsWithLocationReset/USAStatesFlat/Wyoming.prefab
+  uploadId: 462268

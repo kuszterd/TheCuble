@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 48b6b180342d11d4ab0663e0aab6a948
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/PrefabsWithLocationReset/WorldCountriesAndStatesFlat/Andorra.prefab
+  uploadId: 462268

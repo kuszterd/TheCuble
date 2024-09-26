@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4cdb01137a288a54f9b39427b37c198c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/PrefabsWithLocationReset/USAStates3D/Connecticut.prefab
+  uploadId: 462268

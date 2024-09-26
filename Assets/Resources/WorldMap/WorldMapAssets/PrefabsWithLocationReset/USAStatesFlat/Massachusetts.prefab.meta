@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bc5923a213d11974e9fa408c6bcec866
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/PrefabsWithLocationReset/USAStatesFlat/Massachusetts.prefab
+  uploadId: 462268

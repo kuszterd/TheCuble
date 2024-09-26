@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e714f094f6a1bc7458d4415ccd7c0707
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/PrefabsWithLocationReset/WorldCountriesAndStatesFlat/Sudan.prefab
+  uploadId: 462268

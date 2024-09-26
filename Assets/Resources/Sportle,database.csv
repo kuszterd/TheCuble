@@ -1,0 +1,72 @@
+Sport;Season;Type of Competition;Venue;Equipment;Skill;Environment/Terrain;Scoring Method
+Acrobatic Gymnastics;Summer;Artistic;Indoor;Sport specific clothing;Balance/Strength/Synchronization/Tricks;Ground;Judges' Scores
+Alpine Skiing;Winter;Racing;Outdoor;Skis;Speed/Precision/Agility/Endurance;Snow;Time
+Archery;Summer;Target;Indoor/Outdoor;Bow;Precision/Accuracy/Coordination/Strategy;Ground;Points
+Artistic Gymnastics;Summer;Artistic;Indoor;None;Balance/Synchronization/Precision/Tricks;Ground;Judges' Scores
+Artistic Swimming;Summer;Artistic;Indoor;None;Synchronization/Endurance/Precision/Dance;Water;Judges' Scores
+Athletics;Summer;Racing/Jumping/Throwing/Multi-discipline;Outdoor;Shot/Discus/Javelin/Hammer;Speed/Strength/Endurance/Precision;Ground;Time/Distance/Points/Height
+Badminton;Summer;Racquet;Indoor;Racquet;Speed/Agility/Precision/Strategy;Ground;Points
+Baseball Softball;Summer;Ball;Outdoor;Ball/Bat;Hitting/Throwing/Strategy/Teamwork;Ground;Runs
+Basketball;Summer;Ball;Indoor;Basketball;Speed/Agility/Throwing/Teamwork;Ground;Points
+Basketball 3x3;Summer;Ball;Indoor/Outdoor;Basketball;Speed/Agility/Throwing/Teamwork;Ground;Points
+Beach Handball;Summer;Ball;Outdoor;Handball;Speed/Agility/Throwing/Teamwork;Sand;Points
+Beach Volleyball;Summer;Ball;Outdoor;Volleyball;Speed/Precision/Hitting/Teamwork;Sand;Points
+Biathlon;Winter;Multi-discipline;Outdoor;Skis/Rifle;Endurance/Precision/Shooting/Skiing Skills;Snow;Time/Targets
+Bobsleigh;Winter;Racing;Outdoor;Bobsleigh;Speed/Strength/Coordination/Precision;Ice;Time
+Boxing;Summer;Combat;Indoor;Gloves;Speed/Strength/Precision/Coordination;Ground;Judges' Scores/KO
+Breaking;Summer;Dance;Indoor;None;Agility/Strength/Tricks/Dance;Ground;Judges' Scores
+Canoe Slalom;Summer;Racing;Outdoor;Canoe;Precision/Paddling/Agility/Coordination;Water;Time
+Canoe Sprint;Summer;Racing;Outdoor;Canoe;Speed/Paddling/Endurance/Strength;Water;Time
+Cricket;Summer;Ball;Outdoor;Ball/Bat;Throwing/Precision/Strategy/Teamwork;Ground;Runs
+Cross-Country Skiing;Winter;Racing;Outdoor;Skis;Endurance/Speed/Strength/Skiing Skills;Snow;Time
+Curling;Winter;Target;Indoor;Stones/Brooms;Precision/Strategy/Coordination/Teamwork;Ice;Points
+Cycling BMX Freestyle;Summer;Artistic;Indoor/Outdoor;BMX Bike;Tricks/Precision/Agility/Coordination;Ground;Judges' Scores
+Cycling BMX Racing;Summer;Racing;Outdoor;BMX Bike;Speed/Agility/Strength/Coordination;Ground;Time
+Cycling Mountain Bike;Summer;Racing;Outdoor;Mountain Bike;Speed/Endurance/Strength/Navigation;Ground;Time
+Cycling Road;Summer;Racing;Outdoor;Road Bike;Speed/Endurance/Strength/Strategy;Ground;Time
+Cycling Track;Summer;Racing;Indoor;Track Bike;Speed/Endurance/Strength/Precision;Ground;Time/Points
+Diving;Summer;Artistic;Indoor;None;Precision/Strength/Coordination/Tricks;Water;Judges' Scores
+Equestrian;Summer;Multi-discipline;Indoor/Outdoor;Horse;Riding/Precision/Coordination/Synchronization;Ground;Judges' Scores/Time
+Fencing;Summer;Combat;Indoor;Sword;Precision/Speed/Agility/Strategy;Ground;Points
+Figure Skating;Winter;Artistic;Indoor;Skates;Skating Skills/Precision/Dance/Tricks;Ice;Judges' Scores
+Flag Football;Summer;Ball;Outdoor;Football;Speed/Throwing/Teamwork/Strategy;Ground;Points
+Football;Summer;Ball;Outdoor;Football;Speed/Precision/Teamwork/Strategy;Ground;Goals
+Freestyle Skiing;Winter;Artistic;Outdoor;Skis;Speed/Precision/Tricks/Coordination;Snow;Judges' Scores
+Futsal;Summer;Ball;Indoor;Football;Speed/Precision/Teamwork/Strategy;Ground;Points
+Golf;Summer;Target;Outdoor;Clubs/Ball;Precision/Strategy/Coordination/Endurance;Ground;Strokes/Points
+Handball;Summer;Ball;Indoor;Handball;Speed/Throwing/Teamwork/Strategy;Ground;Points
+Hockey;Summer;Ball;Outdoor;Stick/Ball;Speed/Precision/Teamwork/Strategy;Ground;Goals
+Ice Hockey;Winter;Ball;Indoor;Stick/Puck;Strength/Precision/Teamwork/Strategy;Ice;Goals
+Judo;Summer;Combat;Indoor;Sport specific clothing;Strength/Grappling/Coordination/Strategy;Ground;Points/Ippon
+Karate;Summer;Combat;Indoor;Sport specific clothing;Speed/Strength/Precision/Coordination;Ground;Points
+Lacrosse;Summer;Ball;Outdoor;Stick/Ball;Speed/Precision/Teamwork/Strategy;Ground;Goals
+Luge;Winter;Racing;Outdoor;Luge;Speed/Precision/Coordination/Strength;Ice;Time
+Marathon Swimming;Summer;Racing;Outdoor;Goggles;Endurance/Speed/Strength/Coordination;Water;Time
+Modern Pentathlon;Summer;Multi-discipline;Indoor/Outdoor;Horse/Sword/Firearms;Endurance/Speed/Precision/Strategy;Water;Points
+Nordic Combined;Winter;Racing;Outdoor;Skis;Endurance/Speed/Skiing Skills/Precision;Snow;Time
+Rhythmic Gymnastics;Summer;Artistic;Indoor;Rope/Hoop/Ball/Clubs/Ribbon;Balance/Precision/Dance/Tricks;Ground;Judges' Scores
+Roller Speed Skating;Summer;Racing;Outdoor;Skates;Speed/Agility/Coordination/Endurance;Ground;Time
+Rowing;Summer;Racing;Outdoor;Boat;Endurance/Strength/Synchronization/Coordination;Water;Time
+Rugby Sevens;Summer;Ball;Outdoor;Rugby Ball;Speed/Strength/Teamwork/Strategy;Ground;Points
+Sailing;Summer;Racing;Outdoor;Boat;Precision/Strategy/Navigation/Coordination;Water;Time
+Shooting;Summer;Target;Indoor/Outdoor;Firearms;Precision/Accuracy/Strategy/Coordination;Ground;Points
+Short Track Speed Skating;Winter;Racing;Indoor;Skates;Speed/Precision/Coordination/Agility;Ice;Time
+Skateboarding;Summer;Artistic;Outdoor;Skateboard;Tricks/Precision/Agility/Coordination;Ground;Judges' Scores
+Skeleton;Winter;Racing;Outdoor;Skeleton Sled;Speed/Precision/Strength/Coordination;Ice;Time
+Ski Jumping;Winter;Jumping;Outdoor;Skis;Precision/Agility/Strength/Coordination;Snow;Distance
+Ski Mountaineering;Winter;Racing;Outdoor;Skis;Endurance/Strength/Navigation/Speed;Snow;Time
+Snowboard;Winter;Artistic/Racing;Outdoor;Snowboard;Tricks/Speed/Precision/Agility;Snow;Time/Judges' Scores
+Speed Skating;Winter;Racing;Indoor;Skates;Speed/Precision/Endurance/Coordination;Ice;Time
+Sport Climbing;Summer;Climbing;Indoor/Outdoor;Climbing Gear;Strength/Precision/Agility/Endurance;Ground;Time/Points
+Squash;Summer;Racquet;Indoor;Racquet/Ball;Speed/Precision/Strategy/Endurance;Ground;Points
+Surfing;Summer;Artistic;Outdoor;Surfboard;Precision/Balance/Agility/Coordination;Water;Judges' Scores
+Swimming;Summer;Racing;Indoor;Goggles;Speed/Endurance/Strength/Precision;Water;Time
+Table Tennis;Summer;Racquet;Indoor;Paddle/Ball;Speed/Precision/Strategy/Coordination;Ground;Points
+Taekwondo;Summer;Combat;Indoor;Sport specific clothing;Speed/Strength/Precision/Coordination;Ground;Points
+Tennis;Summer;Racquet;Indoor/Outdoor;Racquet/Ball;Speed/Precision/Strategy/Coordination;Ground;Points
+Trampoline;Summer;Artistic;Indoor;Trampoline;Precision/Strength/Coordination/Tricks;Ground;Judges' Scores
+Triathlon;Summer;Multi-discipline;Outdoor;Goggles/Bicycle;Endurance/Speed/Strength/Coordination;Water;Time
+Volleyball;Summer;Ball;Indoor;Volleyball;Speed/Precision/Teamwork/Coordination;Ground;Points
+Water Polo;Summer;Ball;Indoor;Water Polo Ball;Strength/Throwing/Teamwork/Endurance;Water;Points
+Weightlifting;Summer;Strength;Indoor;Weights;Strength/Precision/Coordination/Endurance;Ground;Weight
+Wrestling;Summer;Combat;Indoor;None;Strength/Grappling/Strategy/Endurance;Ground;Points

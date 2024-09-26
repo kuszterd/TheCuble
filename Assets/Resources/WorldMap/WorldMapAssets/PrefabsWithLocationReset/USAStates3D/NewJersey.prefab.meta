@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3e263afbfa3fb084ca7d140ba216a448
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/PrefabsWithLocationReset/USAStates3D/NewJersey.prefab
+  uploadId: 462268

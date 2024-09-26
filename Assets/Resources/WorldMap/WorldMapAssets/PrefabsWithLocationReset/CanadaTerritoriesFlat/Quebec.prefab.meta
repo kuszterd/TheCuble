@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 388dda1b1a397f54584f2fd464892c5f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/PrefabsWithLocationReset/CanadaTerritoriesFlat/Quebec.prefab
+  uploadId: 462268

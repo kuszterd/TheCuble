@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5f49596b6de1aba4997adc16e5f6a56c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/PrefabsWithLocationReset/WorldCountriesAndStatesFlat/Gibraltar.prefab
+  uploadId: 462268

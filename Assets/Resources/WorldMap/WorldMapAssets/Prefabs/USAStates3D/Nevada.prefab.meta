@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cc45dd787359f444b99a1059db882df9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/Prefabs/USAStates3D/Nevada.prefab
+  uploadId: 462268

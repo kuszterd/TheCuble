@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0cdf709a060d8a8458eaf3267039e6f2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/PrefabsWithLocationReset/WorldCountriesAndStatesFlat/Chile.prefab
+  uploadId: 462268

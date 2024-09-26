@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 84867d4db0d25844b9c7c4eb2e6435bd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/PrefabsWithLocationReset/USAStates3D/California.prefab
+  uploadId: 462268

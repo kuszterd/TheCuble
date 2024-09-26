@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e57be8614862e2f4691f451fb6204937
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/PrefabsWithLocationReset/USAStatesFlat/NorthDakota.prefab
+  uploadId: 462268

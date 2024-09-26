@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ef80a5e6dce40d3499c9cafca5841c5f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/PrefabsWithLocationReset/WorldCountriesAndStatesFlat/Paraguay.prefab
+  uploadId: 462268

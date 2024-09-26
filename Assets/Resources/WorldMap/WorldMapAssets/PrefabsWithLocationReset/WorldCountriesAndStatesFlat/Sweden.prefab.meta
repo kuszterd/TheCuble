@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f0191a25107f23d4f8ee599a92f7a2b7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/PrefabsWithLocationReset/WorldCountriesAndStatesFlat/Sweden.prefab
+  uploadId: 462268

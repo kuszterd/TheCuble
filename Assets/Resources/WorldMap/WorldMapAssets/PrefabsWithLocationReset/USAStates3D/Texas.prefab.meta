@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cdb4b84e009e8c74c9479645786ace0f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/PrefabsWithLocationReset/USAStates3D/Texas.prefab
+  uploadId: 462268

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8ff16fe14f48a6c459b42af1cf7568b2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/PrefabsWithLocationReset/USAStatesFlat/Hawaii.prefab
+  uploadId: 462268

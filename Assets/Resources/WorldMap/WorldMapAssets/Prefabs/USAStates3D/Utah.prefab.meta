@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 110c6bb5b43d94349b2fc220689f8bc4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/Prefabs/USAStates3D/Utah.prefab
+  uploadId: 462268

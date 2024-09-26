@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 806c4a87bbc8aab47963d39a63053f2f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/PrefabsWithLocationReset/WorldCountriesAndStatesFlat/CentralAfricanRepublic.prefab
+  uploadId: 462268

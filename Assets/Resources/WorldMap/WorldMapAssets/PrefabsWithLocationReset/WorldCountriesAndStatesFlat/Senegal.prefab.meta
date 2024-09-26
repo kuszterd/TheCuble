@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c5a931a46b41c7b469d6f8c106d642f1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/PrefabsWithLocationReset/WorldCountriesAndStatesFlat/Senegal.prefab
+  uploadId: 462268

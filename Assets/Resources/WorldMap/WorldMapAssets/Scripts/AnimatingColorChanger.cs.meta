@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d5d64b0637f17534f9ade094cdda5472
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/Scripts/AnimatingColorChanger.cs
+  uploadId: 462268

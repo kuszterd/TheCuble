@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c84e06b986016b3448b5060a5217ad16
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/PrefabsWithLocationReset/USAStates3D/Iowa.prefab
+  uploadId: 462268

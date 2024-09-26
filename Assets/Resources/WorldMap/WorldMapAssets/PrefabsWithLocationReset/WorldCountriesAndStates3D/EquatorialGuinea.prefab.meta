@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 48dd6f15df31dd248b3707d5b99dbe4b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/PrefabsWithLocationReset/WorldCountriesAndStates3D/EquatorialGuinea.prefab
+  uploadId: 462268

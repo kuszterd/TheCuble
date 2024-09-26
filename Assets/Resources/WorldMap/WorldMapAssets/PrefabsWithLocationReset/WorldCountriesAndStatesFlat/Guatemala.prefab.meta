@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fca6910f153d22f4db04c66003c5c635
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/PrefabsWithLocationReset/WorldCountriesAndStatesFlat/Guatemala.prefab
+  uploadId: 462268

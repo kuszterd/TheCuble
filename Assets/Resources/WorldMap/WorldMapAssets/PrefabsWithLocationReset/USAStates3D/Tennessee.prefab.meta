@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c693433f15e42764aa50208244208527
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/PrefabsWithLocationReset/USAStates3D/Tennessee.prefab
+  uploadId: 462268

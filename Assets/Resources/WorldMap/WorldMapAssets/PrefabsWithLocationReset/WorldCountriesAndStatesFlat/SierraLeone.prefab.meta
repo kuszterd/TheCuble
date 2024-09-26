@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4508aca2dac6af24f8267fbcbf35fac1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/PrefabsWithLocationReset/WorldCountriesAndStatesFlat/SierraLeone.prefab
+  uploadId: 462268

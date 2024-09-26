@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7ea9baeb29664ce43bfe0557c17ea57a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/PrefabsWithLocationReset/WorldCountriesAndStatesFlat/India.prefab
+  uploadId: 462268

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c018214c1ae4f0647ba0b64f3ab3bc29
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/PrefabsWithLocationReset/WorldCountriesAndStatesFlat/Bolivia.prefab
+  uploadId: 462268

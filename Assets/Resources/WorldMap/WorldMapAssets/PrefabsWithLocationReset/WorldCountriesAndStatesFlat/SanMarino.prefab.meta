@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a8c69eb84f3451447afbb7418dd6f7da
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/PrefabsWithLocationReset/WorldCountriesAndStatesFlat/SanMarino.prefab
+  uploadId: 462268

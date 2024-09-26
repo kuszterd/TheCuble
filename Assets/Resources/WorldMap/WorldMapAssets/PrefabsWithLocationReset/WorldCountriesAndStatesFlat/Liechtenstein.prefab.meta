@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b0f88efd3fc651b4792f63433da4c7e0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/PrefabsWithLocationReset/WorldCountriesAndStatesFlat/Liechtenstein.prefab
+  uploadId: 462268

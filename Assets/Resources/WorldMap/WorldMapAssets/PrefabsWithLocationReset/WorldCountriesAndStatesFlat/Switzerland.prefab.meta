@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0ca47c625b085fe499dd9d86a80c5150
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/PrefabsWithLocationReset/WorldCountriesAndStatesFlat/Switzerland.prefab
+  uploadId: 462268

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9a894c6b9d308864fb26328e4b397dd9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/PrefabsWithLocationReset/WorldCountriesAndStatesFlat/Colombia.prefab
+  uploadId: 462268

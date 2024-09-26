@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 74cf592d8745beb459c53c42331d7f5e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/PrefabsWithLocationReset/USAStatesFlat/Washington.prefab
+  uploadId: 462268

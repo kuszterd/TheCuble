@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 577f727007fdf6645acc4f62c0abe721
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/PrefabsWithLocationReset/WorldCountriesAndStatesFlat/Tunisia.prefab
+  uploadId: 462268

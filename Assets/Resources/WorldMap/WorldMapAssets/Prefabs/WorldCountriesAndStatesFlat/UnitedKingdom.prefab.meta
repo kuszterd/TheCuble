@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 27cf7989f38006846ae1182b1e512ad2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/Prefabs/WorldCountriesAndStatesFlat/UnitedKingdom.prefab
+  uploadId: 462268

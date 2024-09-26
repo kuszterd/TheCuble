@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 45fc39b6895c9d143afba0a5cd5a8fa3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/PrefabsWithLocationReset/WorldCountriesAndStatesFlat/Netherlands.prefab
+  uploadId: 462268

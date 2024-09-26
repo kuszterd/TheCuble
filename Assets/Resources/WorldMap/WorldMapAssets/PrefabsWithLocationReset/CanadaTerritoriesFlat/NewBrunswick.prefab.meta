@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 18a3d8391df5dc047b07e58389f5bccd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/PrefabsWithLocationReset/CanadaTerritoriesFlat/NewBrunswick.prefab
+  uploadId: 462268

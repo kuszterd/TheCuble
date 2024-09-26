@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 630d8c0669292c64b985222383ca7eff
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/Prefabs/WorldCountriesAndStatesFlat/Mexico.prefab
+  uploadId: 462268

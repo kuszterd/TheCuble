@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 95cb87b7c87165c43abca3457f1ba39d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/Prefabs/USAStatesFlat/Oregon.prefab
+  uploadId: 462268

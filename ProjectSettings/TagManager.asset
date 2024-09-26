@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Wall
+  - Ceiling
+  - Cube
+  - CubeSide
+  - row1
+  - row2
+  - row3
+  - row4
+  - row5
+  - Draggable
+  - Image
+  - HUN
+  - SA
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Cube
+  - CubeSide
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Back
+    uniqueID: 2914035409
+    locked: 0
+  - name: Middle
+    uniqueID: 3556488521
+    locked: 0
+  - name: Front
+    uniqueID: 3832218023
+    locked: 0

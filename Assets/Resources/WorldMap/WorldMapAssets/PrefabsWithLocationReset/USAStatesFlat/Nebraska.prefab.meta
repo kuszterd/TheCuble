@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 12849132b5c0c4541997ea4857d6841f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/PrefabsWithLocationReset/USAStatesFlat/Nebraska.prefab
+  uploadId: 462268

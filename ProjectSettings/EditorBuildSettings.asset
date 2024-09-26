@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: ebabd387106f8a44980be2e5faf321e4
+  - enabled: 1
+    path: Assets/Scenes/SideSelecter.unity
+    guid: b375bbd31b91d5c4ea8c6ee612068475
+  - enabled: 1
+    path: Assets/Scenes/WordleScene.unity
+    guid: 3143b78ccb46df54cb540f1e51530bce
+  - enabled: 1
+    path: Assets/Scenes/MathleScene.unity
+    guid: 4f0b19a704aee9b4a981b42bed786fa3
+  - enabled: 1
+    path: Assets/Scenes/GlobleScene.unity
+    guid: 59f2d74e9d5e11542918304f56579b9d
+  - enabled: 1
+    path: Assets/Scenes/FlagleScene.unity
+    guid: 429666f3f13e07f4b9ae186b23f4641f
+  - enabled: 1
+    path: Assets/Scenes/PaintleScene.unity
+    guid: 285bcfc79fea3ac4cbceaa8b9b6dfd78
+  - enabled: 1
+    path: Assets/Scenes/SportleScene.unity
+    guid: 24592ba3ad1e10544a4779aa0a80d567
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0

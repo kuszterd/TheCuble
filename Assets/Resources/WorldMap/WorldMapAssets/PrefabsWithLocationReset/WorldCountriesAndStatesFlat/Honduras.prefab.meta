@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c580b8d7507badf4484c2d005d4e9896
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/PrefabsWithLocationReset/WorldCountriesAndStatesFlat/Honduras.prefab
+  uploadId: 462268

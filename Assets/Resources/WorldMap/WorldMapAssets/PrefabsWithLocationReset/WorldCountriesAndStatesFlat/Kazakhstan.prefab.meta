@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 012d7b23fa57c974b8316f72a7c2250a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/PrefabsWithLocationReset/WorldCountriesAndStatesFlat/Kazakhstan.prefab
+  uploadId: 462268

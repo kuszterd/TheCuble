@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c662189525721f241a7fe44d2c2e2c1f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/PrefabsWithLocationReset/USAStates3D/Montana.prefab
+  uploadId: 462268

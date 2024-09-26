@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7eacfaa23aa97e54da00d8d5c50e9d7f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/PrefabsWithLocationReset/WorldCountriesAndStatesFlat/Uruguay.prefab
+  uploadId: 462268

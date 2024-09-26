@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 04d1653ee03246348831cc44c310b109
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/PrefabsWithLocationReset/WorldCountriesAndStates3D/Italy.prefab
+  uploadId: 462268

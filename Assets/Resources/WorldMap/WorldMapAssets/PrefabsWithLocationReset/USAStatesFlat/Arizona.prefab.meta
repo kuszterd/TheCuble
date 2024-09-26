@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7cc67c3ed8e81744898289f689e24b22
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/PrefabsWithLocationReset/USAStatesFlat/Arizona.prefab
+  uploadId: 462268

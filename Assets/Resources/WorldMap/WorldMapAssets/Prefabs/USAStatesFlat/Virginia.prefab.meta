@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a1d179e5b064826419c0261900fcbc88
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/Prefabs/USAStatesFlat/Virginia.prefab
+  uploadId: 462268

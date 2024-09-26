@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f18896e1ac7ec78449e4e176ea344121
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/PrefabsWithLocationReset/WorldCountriesAndStatesFlat/CaboVerde.prefab
+  uploadId: 462268

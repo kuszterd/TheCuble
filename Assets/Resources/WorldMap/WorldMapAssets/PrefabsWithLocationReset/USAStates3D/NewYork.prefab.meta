@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b848d6014b33f4d4da167b92ffaff658
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/PrefabsWithLocationReset/USAStates3D/NewYork.prefab
+  uploadId: 462268

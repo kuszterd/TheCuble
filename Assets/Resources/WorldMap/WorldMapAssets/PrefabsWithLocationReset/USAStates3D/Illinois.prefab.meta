@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 17eaa4777a8719f46b59157c9c74d862
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/PrefabsWithLocationReset/USAStates3D/Illinois.prefab
+  uploadId: 462268

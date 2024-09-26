@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ed1af18cc9fc05c42890c014e2e2e3c7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/Prefabs/USAStatesFlat/SouthDakota.prefab
+  uploadId: 462268

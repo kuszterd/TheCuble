@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 83e5f046423aceb41bee316afdbca2a0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/PrefabsWithLocationReset/AustraliaTerritoriesFlat/Tasmania.prefab
+  uploadId: 462268

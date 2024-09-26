@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bcc96f5ebfff24342b062ecfe7907200
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203042
+  packageName: World Map Countries And States
+  packageVersion: 1.0
+  assetPath: Assets/WorldMap/WorldMapAssets/PrefabsWithLocationReset/USAStatesFlat/Kansas.prefab
+  uploadId: 462268
