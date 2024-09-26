@@ -56,8 +56,7 @@ public class MathleManager : MonoBehaviour
         Debug.Log(randomEquasion);
         int result = EvaluateEquation(randomEquasion);
         while (result < 0)
-        {
-            Debug.Log("Equation is invalid. Regenerating...");
+        {      
             randomEquasion = GenerateRandomEquasion();
             Debug.Log("Generated Equation: " + randomEquasion);
             result = EvaluateEquation(randomEquasion);
