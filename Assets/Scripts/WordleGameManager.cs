@@ -113,8 +113,7 @@ public class WordleGameManager : MonoBehaviour
             }
             SelectInputField(enterKeyPressCount * 5);
         }
-        // Function to load words from a text file
-        
+    // Function to load words from a text file        
     void LoadWordsFromFile(string validwords)
         {
             validWords = new List<string>();
