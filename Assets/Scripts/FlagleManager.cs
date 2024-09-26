@@ -10,6 +10,8 @@ using UnityEngine.EventSystems;
 public class FlagleManager : MonoBehaviour
 {
     public InputField inputField;
+    public TextMeshProUGUI correction;
+    private string actualClosestCountry;
     public List<GameObject> gameObjects;
     //public GameObject[] gameObjects;
     private GameObject targetFlag;
@@ -573,10 +575,80 @@ public class FlagleManager : MonoBehaviour
         }
         if (!valid)
         {
+            string closestCountry = GetClosestCountry(userInput, gameObjects, 2);  // 2 a határérték
+            if (closestCountry != null)
+            {
+                correction.gameObject.SetActive(true);
+                correction.text = "Did you mean " + closestCountry + "?";
+                actualClosestCountry = closestCountry;
+            }
+            wrongInput.Play("NotValidWord");
             wrongInput.Play("NotValidWord");
         }
 
     }
+
+    public void GetCorrection()
+    {
+        if (!valid)
+        {
+            inputField.text = "";
+            inputField.text = actualClosestCountry;
+            correction.gameObject.SetActive(false);
+        }
+    }
+
+    public int DamerauLevenshteinDistance(string s, string t)
+    {
+        int n = s.Length;
+        int m = t.Length;
+        int[,] dp = new int[n + 1, m + 1];
+
+        for (int i = 0; i <= n; i++)
+            dp[i, 0] = i;
+        for (int j = 0; j <= m; j++)
+            dp[0, j] = j;
+
+        for (int i = 1; i <= n; i++)
+        {
+            for (int j = 1; j <= m; j++)
+            {
+                int cost = (s[i - 1] == t[j - 1]) ? 0 : 1;
+
+                dp[i, j] = Mathf.Min(
+                    dp[i - 1, j] + 1,
+                    dp[i, j - 1] + 1,
+                    dp[i - 1, j - 1] + cost
+                );
+
+                if (i > 1 && j > 1 && s[i - 1] == t[j - 2] && s[i - 2] == t[j - 1])
+                {
+                    dp[i, j] = Mathf.Min(dp[i, j], dp[i - 2, j - 2] + cost);
+                }
+            }
+        }
+        return dp[n, m];
+    }
+
+    public string GetClosestCountry(string input, List<GameObject> countries, int threshold)
+    {
+        string closestCountry = null;
+        int minDistance = int.MaxValue;
+
+        foreach (GameObject country in countries)
+        {
+            int distance = DamerauLevenshteinDistance(input.ToLower(), country.name.ToLower());
+            if (distance < minDistance && distance <= threshold)
+            {
+                minDistance = distance;
+                closestCountry = country.name;
+            }
+        }
+
+        return closestCountry;
+    }
+
+
     public void CalculateDistance()
     {
         if (targetFlag != null && newCountry != null)

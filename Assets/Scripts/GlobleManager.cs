@@ -6,12 +6,14 @@ using UnityEngine.UI;
 using System.IO;
 using TMPro;
 using UnityEngine.EventSystems;
+using Unity.VisualScripting;
 
 public class GlobleManager : MonoBehaviour
 {
     public InputField inputField;
-    
+    private string actualClosestCountry;
     public GameObject[] gameObjects;
+    public TextMeshProUGUI correction;
     public Color mapColor;
     private GameObject newCountry = null;
     private int distanceKm;
@@ -61,6 +63,7 @@ public class GlobleManager : MonoBehaviour
     {
         win = false;
         lose = false;
+        
         if (MainCameraController.isNormal)
         {
             normalLoaded = true;
@@ -522,9 +525,81 @@ public class GlobleManager : MonoBehaviour
         }
         if (!valid)
         {
+            
+            string closestCountry = GetClosestCountry(userInput, gameObjects, 2);  // 2 a határérték
+            if (closestCountry != null)
+            {
+                correction.gameObject.SetActive(true);
+                correction.text = "Did you mean " + closestCountry + "?";
+                actualClosestCountry = closestCountry;
+            }
             wrongInput.Play("NotValidWord");
         }
     }
+
+    public int DamerauLevenshteinDistance(string s, string t)
+    {
+        int n = s.Length;
+        int m = t.Length;
+        int[,] dp = new int[n + 1, m + 1];
+
+        for (int i = 0; i <= n; i++)
+            dp[i, 0] = i;
+        for (int j = 0; j <= m; j++)
+            dp[0, j] = j;
+
+        for (int i = 1; i <= n; i++)
+        {
+            for (int j = 1; j <= m; j++)
+            {
+                int cost = (s[i - 1] == t[j - 1]) ? 0 : 1;
+
+                dp[i, j] = Mathf.Min(
+                    dp[i - 1, j] + 1,   
+                    dp[i, j - 1] + 1,   
+                    dp[i - 1, j - 1] + cost  
+                );
+
+                if (i > 1 && j > 1 && s[i - 1] == t[j - 2] && s[i - 2] == t[j - 1])
+                {
+                    dp[i, j] = Mathf.Min(dp[i, j], dp[i - 2, j - 2] + cost); 
+                }
+            }
+        }
+        return dp[n, m];
+    }
+
+    public string GetClosestCountry(string input, GameObject[] countries, int threshold)
+    {
+        string closestCountry = null;
+        int minDistance = int.MaxValue;
+
+        foreach (GameObject obj in gameObjects)
+        {
+            string countryName = obj.name;  // GameObject name gets the country name
+            int distance = DamerauLevenshteinDistance(input.ToLower(), countryName.ToLower());
+
+            if (distance < minDistance && distance <= threshold)
+            {
+                minDistance = distance;
+                closestCountry = countryName;
+            }
+        }
+
+        return closestCountry;
+    }
+
+    public void GetCorrection()
+    {
+        if (!valid)
+        {
+            inputField.text = "";
+            inputField.text = actualClosestCountry;
+            correction.gameObject.SetActive(false);
+        }
+    }
+
+
     public void CalculateDistance()
     {
         if (targetGameObject != null && newCountry != null)
@@ -545,22 +620,15 @@ public class GlobleManager : MonoBehaviour
             }
             else if (!win)
             {
-                if (distanceKm > 10000)
-                {
-                    guessColor.r = 1f;
-                    guessColor.g = 1f;
-                    guessColor.b = 0.5f;
-                    
-                }
-                else
-                {
-                    normalizedData = (float)distanceKm / 5000f;
-                    guessColor.r = 1;
-                    guessColor.g = normalizedData;
-                    guessColor.b = 0;
-                    
-                }
-                //Apply the scale factor to the bigMap
+                
+                float normalizedDistance = Mathf.Clamp01((float)distanceKm / 20000f);  // Normalize based on 0 to 20000 km range
+
+                // Adjust the red color: full red (1f) but adjust green and blue based on distance
+                guessColor.r = 1f;  // Keep red at maximum
+                guessColor.g = normalizedDistance;  // Green decreases as distance decreases
+                guessColor.b = normalizedDistance;  // Blue decreases as distance decreases
+
+                // Apply the color to the country
                 newCountry.GetComponent<MeshRenderer>().material.color = guessColor;
             }
             Debug.Log(distanceKm);
